@@ -1,0 +1,8 @@
+{
+  "name": "KROPS AI - Vernacular Crop Doctor",
+  "description": "An advanced AI-powered agri-tech solution for farmers, featuring multilingual crop diagnosis, audio interactions, 3D visualizations, and automated PDF report generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
